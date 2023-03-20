@@ -10,4 +10,4 @@ root.render(
   </React.StrictMode>
 );
 
-// Main index file o
+// Main index file
